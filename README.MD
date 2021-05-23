@@ -16,6 +16,11 @@ Follow these steps to install the sample code on your computer:
     * ```git clone https://github.com/haker88/Hangman```
 
 ## Running the game
-
+Open command prompt, switch to repo's root directory.
 At the command prompt, run the command ```hangman_game.py```
+Enter '1' and press 'enter' key to start New Hangman word game.
+Enter '3' and press enter key to go to the help menu.
+
+
+
 

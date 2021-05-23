@@ -3,10 +3,6 @@
 ![language:Python](https://img.shields.io/badge/Language-Python-blue.svg?style=flat-square) 
 * [Installation](#installation)
 * [Running the sample](#running-the-sample)
-* [Device Flow authentication](#device-flow-authentication)
-* [Helper functions](#helper-functions)
-* [Contributing](#contributing)
-* [Resources](#resources)
 
 ## Installation
 

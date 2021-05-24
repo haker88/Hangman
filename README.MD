@@ -19,7 +19,17 @@ Follow these steps to install the sample code on your computer:
 Open command prompt, switch to repo's root directory.
 At the command prompt, run the command ```hangman_game.py```
 Enter '1' and press 'enter' key to start New Hangman word game.
-Enter '3' and press enter key to go to the help menu.
+
+Playing Hangman
+Hangman is an old school favorite, a word game where the goal is simply to find the missing word or words.
+You will be presented with a number of blank spaces representing the missing letters you need to find.
+Use the keyboard to guess a letter (I recommend starting with vowels).
+If your chosen letter exists in the answer, then all places in the answer where that letter appear will be revealed.
+After you've revealed several letters, you may be able to guess what the answer is and fill in the remaining letters.
+Be warned, every time you guess a letter wrong you loose a life and the hangman begins to appear, piece by piece.
+The player gets 5 letter guesses before losing the game. The game is lost on the 6th bad guess.
+Every time a player wins the game, they get 10 points.
+Good Luck !
 
 
 
